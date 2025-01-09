@@ -1,7 +1,5 @@
 import os
 import streamlit as st
-from PIL import Image
-import pytesseract
 import pandas as pd
 from openai import OpenAI as oai
 from pandasai import SmartDataframe
